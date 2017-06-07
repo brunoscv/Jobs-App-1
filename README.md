@@ -15,8 +15,6 @@ Foram encontradas 5 classes principais:
 
 > Candidato
 
-> Cidade
-
 ## Diagrama de Classes
 
 Obtemos o seguinte diagrama:
