@@ -6,3 +6,9 @@ Analisar a modelagem  do site https://hipsters.jobs/
 
 ## Parte Descritiva
  
+Foram encontradas 5 classes principais:
+- [x]
+- [x]
+- [x]
+- [x]
+- [x]
