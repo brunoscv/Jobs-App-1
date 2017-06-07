@@ -7,8 +7,12 @@ Analisar a modelagem  do site https://hipsters.jobs/
 ## Parte Descritiva
  
 Foram encontradas 5 classes principais:
-- [x] teste
-- [x] teste
-- [x] teste
-- [x] teste
-- [x] teste
+> Empresa
+- [x] Vaga
+- [x] Cargo
+- [x] Candidato
+- [x] Cidade
+
+## Diagrama de Classes
+
+Obtemos o seguinte diagrama:
