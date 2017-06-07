@@ -8,10 +8,10 @@ Analisar a modelagem  do site https://hipsters.jobs/
  
 Foram encontradas 5 classes principais:
 > Empresa
-- [x] Vaga
-- [x] Cargo
-- [x] Candidato
-- [x] Cidade
+> Vaga
+> Cargo
+> Candidato
+> Cidade
 
 ## Diagrama de Classes
 
