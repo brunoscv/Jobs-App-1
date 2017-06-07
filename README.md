@@ -20,3 +20,6 @@ Foram encontradas 5 classes principais:
 ## Diagrama de Classes
 
 Obtemos o seguinte diagrama:
+
+![Color](http://i.imgur.com/c1JI0lA.png)
+
