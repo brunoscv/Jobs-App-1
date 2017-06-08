@@ -19,5 +19,5 @@ Foram encontradas 4 classes principais:
 
 Obtemos o seguinte diagrama:
 
-![Color](http://i.imgur.com/c1JI0lA.png)
+![Color](Selection.png)
 
